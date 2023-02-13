@@ -26,3 +26,14 @@
   text-align: center;
   padding: 20px;
 }
+
+@media screen and (max-width: 800px) {
+  .slider {
+    flex-direction: column;
+    background-color: rgb(245, 243, 243);
+  }
+
+  .slider_image {
+    width: 100%;
+  }
+}

@@ -34,3 +34,8 @@
   border-color: #fff;
   transition: 1.5s;
 }
+
+.navbar__menu {
+  color: #fff;
+  display: none;
+}
